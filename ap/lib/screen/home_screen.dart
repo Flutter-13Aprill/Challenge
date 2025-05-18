@@ -1,4 +1,4 @@
-import 'package:ap/scren/widgets/flower_painter.dart';
+import 'package:ap/screen/widgets/flower_painter.dart';
  import 'package:flutter/material.dart';
 
 class HomeScreen extends StatefulWidget {
