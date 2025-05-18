@@ -1,4 +1,4 @@
-## Description:
+## Description
 
  Painting challenge  paint and customize beautiful flower designs on a digital canvas. Utilizing Flutter's powerful graphics capabilities , engaging and interactive painting experience.
 
