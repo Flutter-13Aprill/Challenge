@@ -2,7 +2,7 @@
 
 ---
 ## Screenshot
-<img src = "assets/github/flower.png" alt = "flower - Output">
+<img src = "assets/github/flower.png" alt = "flower - Output" width = "30%" height ="30%">
 
 ---
 
