@@ -1,7 +1,7 @@
 # Flower Challenge🌻
 ---
 ## Screenshot
-![App Screenshot](podkes_app/assets/screenshots/1.png)
+![App Screenshot](lesson21/assets/screenshots/1.png)
 ---
 ## Tech Stack
 - Flutter
