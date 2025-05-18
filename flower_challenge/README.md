@@ -1,3 +1,7 @@
+# flower_challenge
+
+A new Flutter project.
+
 # 🌸 Flutter Flower Drawing Challenge
 
 ### Overview 👀
@@ -72,4 +76,3 @@ The goal of this challenge is to recreate the shape of a provided flower image u
 **Lamya Alsuhaibani**  
 [🌐 Portfolio Website](https://picayune-mouth-ade.notion.site/Lamya-Alsuhaibani-310c29eda5ba40638fa895968d3f630d "My Portfolio Website")  
 [💼 LinkedIn](https://www.linkedin.com/in/lamya-a-alsuhaibani/ "My LinkedIn")
-
