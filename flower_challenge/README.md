@@ -1,21 +1,24 @@
+# flower_challenge
+
+A new Flutter project.
+
 # 🌸 Flutter Flower Drawing Challenge
 
 ### Overview 👀
 
-This Challenge is part of a **Flutter Bootcamp**.  
+This project is part of a **Flutter Bootcamp Challenge**.  
 The goal of this challenge is to recreate the shape of a provided flower image using only Flutter's custom drawing capabilities.
 
 ---
 
 ### Output 📱
-<img src="https://github.com/user-attachments/assets/23c12adc-538b-485e-b3e1-e2ac4db6129c" alt="output" width="300" >
 
 ---
 
 ### Features ⭐️
 
 - Draws a custom flower using Flutter's `CustomPainter`
-- Uses paths and Bezier curves for creative shapes
+- Uses paths and Bézier curves for creative shapes
 - A fun way to practice canvas-based drawing
 
 ---
@@ -73,4 +76,3 @@ The goal of this challenge is to recreate the shape of a provided flower image u
 **Lamya Alsuhaibani**  
 [🌐 Portfolio Website](https://picayune-mouth-ade.notion.site/Lamya-Alsuhaibani-310c29eda5ba40638fa895968d3f630d "My Portfolio Website")  
 [💼 LinkedIn](https://www.linkedin.com/in/lamya-a-alsuhaibani/ "My LinkedIn")
-
