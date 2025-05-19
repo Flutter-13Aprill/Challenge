@@ -49,7 +49,6 @@ class ClipFlower extends CustomClipper<Path>{
     path.lineTo(width*0.501, height*0.30);
     path.quadraticBezierTo(width*0.55,height*0.45,width*0.73,height*0.42);     
     path.quadraticBezierTo(width*0.70,height*0.30,width*0.50,height*0.30);
-
     path.quadraticBezierTo(width*0.70,height*0.30,width*0.78,height*0.20);     
     path.quadraticBezierTo(width*0.60,height*0.15,width*0.50,height*0.30);   
     path.quadraticBezierTo(width*0.55,height*0.15,width*0.44,height*0.05);     

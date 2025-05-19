@@ -2,6 +2,7 @@
 ---
 ## Screenshot
 ![App Screenshot](lesson21/assets/screenshots/1.png)
+![App Screenshot](lesson21/assets/screenshots/2.png)
 ---
 ## Tech Stack
 - Flutter

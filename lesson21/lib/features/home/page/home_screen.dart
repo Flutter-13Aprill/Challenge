@@ -8,7 +8,7 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(body: Column(mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignment.center, children: [
       SizedBox(width: MediaQuery.sizeOf(context).width,),
-      Flower(width: context.getWidth(), height: context.getHeight(per: 7), flowerColor: Colors.amberAccent, borderColor: const Color.fromARGB(255, 107, 83, 12), borderWidth: 1)
+      Flower(width: context.getWidth(), height: context.getHeight(per: 7), flowerColor: const Color.fromARGB(255, 255, 0, 0), borderColor: const Color.fromARGB(255, 178, 75, 98), borderWidth: 2)
     ],
 
     ),);
