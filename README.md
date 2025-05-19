@@ -1,21 +1,65 @@
-# Challenge
+
+## Flower Drawing Challenge
+### Tuwaiq Academy Flutter Bootcamp
+
+### 💡 Challenge Idea
+
+The challenge is to draw a flower using Flutter’s CustomPaint widget
 
 
-## Description:
-In this challenge, you are required to recreate the shape of the provided flower image using Flutter.
+---
+### 🔍 Challlenge Preview
 
-![PHOTO-2025-05-18-17-07-24](https://github.com/user-attachments/assets/15b69ae3-6fdf-4b6f-8fec-47823d17f79d)
-
-
-## Important Requirements:
-
-- **You must use a single custom widget to create the entire flower.
-- **Do not use multiple containers combined manually to imitate the shape.
+<img src="page_preview.gif" alt="Preview" width="300">
+<!-- <img src="page_preview.png" alt="Project Pages" style="width:100%; max-width:600px; display:block; margin:auto" /> -->
 
 
-## ⏰ Deadline
+---
+### ⚙️ Tech Stack
+- **Flutter**
+- **Dart**
 
-**Submit your project by May 19, before 10:00 AM.**
+---
+### 💻  Setup instructions 
+
+ 1. Clone the repository:
+
+```
+https://github.com/RemasNg1/Challenge.git
+```
+2. Navigate to the project folder:
+
+```
+cd Challenge\drawn_app
+```
+
+3. Install dependencies:
+```
+flutter pub get
+```
+
+ 4. Run the app:
+ ```
+ flutter run 
+ ```  
+
+---
+### 📂 Folder Structure 
+
+```
+lib/
+├── screens/
+│   ├── home_screen.dart
+├── widgets/
+│   └── custom_rose_paint_widget.dart
+└── main.dart
+
+```
+---
+### 🖊️ Author
+Remas Alnugaithan
 
 
-Have a blast and code with joy! 😄
+
+
+
