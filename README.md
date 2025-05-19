@@ -10,7 +10,7 @@ The challenge is to draw a flower using Flutter’s CustomPaint widget
 ---
 ### 🔍 Challlenge Preview
 
-<img src="page_preview.gif" alt="Preview" width="300">
+<img src="page_preview.png" alt="Preview" width="300">
 <!-- <img src="page_preview.png" alt="Project Pages" style="width:100%; max-width:600px; display:block; margin:auto" /> -->
 
 
